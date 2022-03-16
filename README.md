@@ -1,1 +1,1 @@
-# python_function_practice
+Practice writing python functions from CodeWars or other various websites
